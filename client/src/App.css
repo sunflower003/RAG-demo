@@ -42,6 +42,8 @@
   margin: 0;
   max-width: 85%;
   word-wrap: break-word;
+  white-space: pre-wrap; /* Giữ nguyên line breaks và spaces */
+  line-height: 1.6; /* Tăng khoảng cách giữa các dòng */
 }
 
 .message.user p {

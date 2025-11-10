@@ -125,7 +125,7 @@ console.log("🎯 Reranked Chunks:", rerankedChunks);
 
 ## Common Pitfalls
 
-1. **Model Names**: Use `gpt-3.5-turbo` or `gpt-4-turbo` (NOT `gpt-5-nano`)
+1. **Model Names**: `gpt-5-nano` or `chatgpt-4o-latest`
 2. **Embedding Dimensions**: Always 1536 for `text-embedding-3-small`
 3. **Vector Search**: Must query `products_embeddings` collection (NOT `products`)
 4. **Reranking**: Cohere expects array of strings, not objects

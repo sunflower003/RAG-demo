@@ -18,7 +18,7 @@ async function generateChatResponse(systemPrompt, userQuery) {
 
     try {
         const response = await openai.chat.completions.create({
-            model: "gpt-5-nano",
+            model: "chatgpt-4o-latest",
             messages: [
                 { role: "system", content: systemPrompt },
                 { role: "user", content: userQuery }

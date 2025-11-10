@@ -16,7 +16,7 @@ function ChatWindow() {
   // Thêm một tin nhắn chào mừng ban đầu
   useEffect(() => {
     setMessages([
-      { role: 'assistant', content: 'Xin chào! Tôi có thể giúp gì cho bạn về các sản phẩm đồ uống?' }
+      { role: 'assistant', content: 'Anh chị cần hỗ trợ gì cứ ới em ạ ^^' }
     ]);
   }, []);
 
