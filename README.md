@@ -15,6 +15,7 @@
 - [Sử dụng](#-sử-dụng)
 - [Pipeline RAG](#-pipeline-rag)
 - [API Documentation](#-api-documentation)
+- [Documentation](https://drive.google.com/drive/folders/1FRcoBCCJf2emiyREFh4xDge2Ik7ZHY-c?usp=drive_link)
 - [Troubleshooting](#-troubleshooting)
 
 ## 🎯 Giới thiệu
